@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(https://post.healthline.com/wp-content/uploads/2020/09/Blood_Donation-732X549-thumbnail.jpg);
+    background-size: cover;
+    background-position: center ;
+}
+
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+.login-left{
+    background-color: rgba(211,211,211,0.5);
+    padding: 30px;
+    
+}
+.login-right{
+    background-color: #fff ;
+    padding: 30px;
+}
+.form-control{
+    background: transparent !important;
+}
+.body{
+    color:#fff;
+    text-shadow: #fff;
+}
